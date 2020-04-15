@@ -1,11 +1,11 @@
-![Screenshot](https://user-images.githubusercontent.com/246691/40046950-1da37be0-5869-11e8-97cb-3e0de44c36e9.png "Screenshot")
+![Screenshot](https://user-images.githubusercontent.com/62847426/79295080-c5080f00-7f12-11ea-9c2f-6a80a9b9d2d8.png "Screenshot")
 
 # Apricot
 
 This repository contains Apricot implementation for Windows. Apricot is a desktop agent who reads RSS/Atom news feeds and add comments on the news one by one.
 Inspired by fed news articles, a character speaks to you in a way that human beings never can.
 
-![](https://github.com/kawatan/Apricot/workflows/.NET%20Core/badge.svg)
+![](https://github.com/milchchan/Apricot/workflows/.NET%20Core/badge.svg)
 
 ## Installation
 
@@ -31,4 +31,4 @@ To build Apricot, run .NET Core CLI command.
 
 Please see https://www.kawatan.net/ for more information.
 
-![Footer](https://user-images.githubusercontent.com/246691/73124056-fb03ba00-3fd9-11ea-9483-edca9ed336cc.png)
+![Footer](https://user-images.githubusercontent.com/62847426/79295104-d3eec180-7f12-11ea-991c-881e0a2a3540.png)
